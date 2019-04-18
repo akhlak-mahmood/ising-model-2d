@@ -11,7 +11,7 @@ lattice.runMovie(2.0, 1e5, -0.1, 1000)
 lattice.finish_movie()
 ```
 
-See source comments for details.
+See source comments for more details and examples.
 
 ## License
 The MIT License (MIT)
